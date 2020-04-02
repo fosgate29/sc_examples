@@ -2,7 +2,7 @@
 
 ---
 
-# How to use call.value
+## 1. How to use call.value
 Recently someone asked me about the difference between `transfer()` and `call.value`. Why people were talking about it now? Well, it happened because of Istanbul hard fork in 2019. Gas cost of the SLOAD operation increased, causing a contract's fallback function to cost more than 2300 gas. So everybody should stop using `.transfer()` and `.send()` and instead use `.call()`. More information you can have at this very good repo, Secure Development Recommendations, maintained by ConsenSys Diligence: https://consensys.github.io/smart-contract-best-practices/recommendations/#dont-use-transfer-or-send.
 
 You can easily find a bunch of examples of how to use this new standard, ig, [here](https://ethereum.stackexchange.com/questions/6707/whats-the-difference-between-call-value-and-call-value) and [here](https://solidity-by-example.org/sending-ether/).
