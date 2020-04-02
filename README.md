@@ -45,4 +45,4 @@ function makeDeposit(address bankAddress) public payable {
 
  - **payload** is the result that we want to be used inside call.value. And it is equal to **0xd0e30db000000000000000000000000000000000000000000000000000000000**
 
-I hope that writing in 3 steps you can better understand what is needed to be able to send ether to another smart contract.
+I hope that writing in 3 steps you can better understand what is needed to be able to send ether to another smart contract. I created a small test so you can see it in action using [Remix](https://remix.ethereum.org/) here [contracts/Payloadtest.sol](contracts/Payloadtest.sol)
