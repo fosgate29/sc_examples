@@ -13,9 +13,7 @@ contract Payloadtest {
     function makeADeposit(address bank ) public payable
     {
         functionHash = keccak256("deposit()");
-        
         function4bytes = bytes4(functionHash);
-
         payload = abi.encode(function4bytes);
         
         if (msg.value > 0) {
