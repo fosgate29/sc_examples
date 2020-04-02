@@ -5,7 +5,7 @@
 # How to use call.value
 Recently someone asked me about the difference between `transfer()` and `call.value`. Why people were talking about it now? Well, it happened because of Istanbul hard fork in 2019. Gas cost of the SLOAD operation increased, causing a contract's fallback function to cost more than 2300 gas. So everybody should stop using `.transfer()` and `.send()` and instead use `.call()`. More information you can have at this very good repo, Secure Development Recommendations, maintained by ConsenSys Diligence: https://consensys.github.io/smart-contract-best-practices/recommendations/#dont-use-transfer-or-send.
 
-You can easily find a bunch of examples of how to use this new standard, ig, here and here.
+You can easily find a bunch of examples of how to use this new standard, ig, [here](https://ethereum.stackexchange.com/questions/6707/whats-the-difference-between-call-value-and-call-value) and [here](https://solidity-by-example.org/sending-ether/).
 
 But let's talk about one specific topic: the payload. All examples have just a simple ether transfer, `msg.sender.call.value(amount)("")`. What is calling some attention is the 2nd parameter, the empty string **""**. I am going to explain how to use it.
 
@@ -41,7 +41,7 @@ function makeDeposit(address bankAddress) public payable {
 ```
  - **functionHash** is going to be equal to **0xd0e30db0**3f2e24c6531d8ae2f6c09d8e7a6ad7f7e87a81cb75dfda61c9d83286. The part that is in bold is just to highlight the next step.
 
-We just need the first 4 bytes from the function hash, so **function4bytes** is equal to **0xd0e30db0**.
+ - We just need the first 4 bytes from the function hash, so **function4bytes** is equal to **0xd0e30db0**.
 
  - **payload** is the result that we want to be used inside call.value. And it is equal to **0xd0e30db000000000000000000000000000000000000000000000000000000000**
 
