@@ -1,3 +1,7 @@
+# DAI testnet
+Kovan: https://kovan.etherscan.io/address/0x9FfFE440258B79c5d6604001674A4722FfC0f7Bc (Medianizer)
+Kovan DAI: https://kovan.etherscan.io/address/0x08ae34860fbfe73e223596e65663683973c72dd3
+
 # Smart Contracts Examples
 
 ---
