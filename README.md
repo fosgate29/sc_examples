@@ -5,6 +5,9 @@
 # Calendar Library
 
  - https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary
+ 
+# Libraries
+ - https://medium.com/coinmonks/sorting-in-solidity-without-comparison-4eb47e04ff0d
 
 # Smart Contracts Examples
 
