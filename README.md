@@ -2,13 +2,19 @@
  - Kovan Medianizer: https://kovan.etherscan.io/address/0x9FfFE440258B79c5d6604001674A4722FfC0f7Bc 
  - Kovan DAI: https://kovan.etherscan.io/address/0x08ae34860fbfe73e223596e65663683973c72dd3
 
-# Calendar Library
+# Libraries
 
  - https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary
- 
-# Libraries
  - https://medium.com/coinmonks/sorting-in-solidity-without-comparison-4eb47e04ff0d
 
+# Tutorials:
+ - https://medium.com/coinmonks/web3-go-part-1-31c68c68e20e
+ - https://medium.com/unibrightio/transthereum-unibrights-open-source-blockchain-explorer-for-developers-2894d0bac293
+ - https://medium.com/@austin_48503/tl-dr-scaffold-eth-ipfs-20fa35b11c35
+
+# Solidity Patterns:
+ - https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb
+ 
 # Smart Contracts Examples
 
 ---
