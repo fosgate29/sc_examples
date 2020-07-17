@@ -4,13 +4,14 @@
 
 # Libraries
 
- - https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary
- - https://medium.com/coinmonks/sorting-in-solidity-without-comparison-4eb47e04ff0d
+ - Calendar solidity api - https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary
+ - Sorting - https://medium.com/coinmonks/sorting-in-solidity-without-comparison-4eb47e04ff0d
 
 # Tutorials:
- - https://medium.com/coinmonks/web3-go-part-1-31c68c68e20e
- - https://medium.com/unibrightio/transthereum-unibrights-open-source-blockchain-explorer-for-developers-2894d0bac293
- - https://medium.com/@austin_48503/tl-dr-scaffold-eth-ipfs-20fa35b11c35
+ - Go and Ethereum - https://medium.com/coinmonks/web3-go-part-1-31c68c68e20e
+ - Blockchain explorer - https://medium.com/unibrightio/transthereum-unibrights-open-source-blockchain-explorer-for-developers-2894d0bac293
+ - Create a Dapp - https://medium.com/@austin_48503/tl-dr-scaffold-eth-ipfs-20fa35b11c35
+ - Strings - https://www.youtube.com/watch?v=gNlwpr3vGYM 
 
 # Solidity Patterns:
  - https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb
