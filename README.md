@@ -15,6 +15,7 @@
 
 # Solidity Patterns:
  - https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb
+ - Factory - https://soliditydeveloper.com/clonefactory
  
 # Smart Contracts Examples
 
