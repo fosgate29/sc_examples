@@ -12,6 +12,7 @@
  - Blockchain explorer - https://medium.com/unibrightio/transthereum-unibrights-open-source-blockchain-explorer-for-developers-2894d0bac293
  - Create a Dapp - https://medium.com/@austin_48503/tl-dr-scaffold-eth-ipfs-20fa35b11c35
  - Strings - https://www.youtube.com/watch?v=gNlwpr3vGYM 
+ - Web3 Providers - https://0x.org/docs/guides/web3-provider-explained#notes-on-ledger-subprovider
 
 # Solidity Patterns:
  - https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb
