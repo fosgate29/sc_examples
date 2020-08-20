@@ -13,6 +13,7 @@
  - Create a Dapp - https://medium.com/@austin_48503/tl-dr-scaffold-eth-ipfs-20fa35b11c35
  - Strings - https://www.youtube.com/watch?v=gNlwpr3vGYM 
  - Web3 Providers - https://0x.org/docs/guides/web3-provider-explained#notes-on-ledger-subprovider
+ - Node - https://diligence.consensys.net/blog/2020/06/legions-a-tool-for-seekers/
 
 # Solidity Patterns:
  - https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb
