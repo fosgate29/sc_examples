@@ -14,6 +14,7 @@
  - Strings - https://www.youtube.com/watch?v=gNlwpr3vGYM 
  - Web3 Providers - https://0x.org/docs/guides/web3-provider-explained#notes-on-ledger-subprovider
  - Node - https://diligence.consensys.net/blog/2020/06/legions-a-tool-for-seekers/
+ - Upgrade contract - https://yos.io/2018/10/28/upgrading-solidity-smart-contracts/
 
 # Solidity Patterns:
  - https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb
