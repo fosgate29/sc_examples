@@ -6,6 +6,7 @@
 
  - Calendar solidity api - https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary
  - Sorting - https://medium.com/coinmonks/sorting-in-solidity-without-comparison-4eb47e04ff0d
+ - Bytes - https://github.com/GNSPS/solidity-bytes-utils
 
 # Tutorials:
  - Go and Ethereum - https://medium.com/coinmonks/web3-go-part-1-31c68c68e20e
