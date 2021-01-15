@@ -24,6 +24,9 @@
 # Clean code:
  - https://www.wslyvh.com/clean-contracts/
  
+# Javascript tips:
+ - https://kentcdodds.com/blog/javascript-to-know-for-react
+ 
 # Smart Contracts Examples
 
 ---
