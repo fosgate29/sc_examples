@@ -26,6 +26,7 @@
  
 # Javascript tips:
  - https://kentcdodds.com/blog/javascript-to-know-for-react
+ - https://staltz.com/your-ide-as-a-presentation-tool.html
  
 # Smart Contracts Examples
 
