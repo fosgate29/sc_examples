@@ -17,6 +17,9 @@
  - Node - https://diligence.consensys.net/blog/2020/06/legions-a-tool-for-seekers/
  - Upgrade contract - https://yos.io/2018/10/28/upgrading-solidity-smart-contracts/
 
+# Testing
+ - https://forum.openzeppelin.com/t/test-smart-contracts-like-a-rockstar/1001
+
 # Solidity Patterns:
  - https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb
  - Factory - https://soliditydeveloper.com/clonefactory
