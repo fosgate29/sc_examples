@@ -1,6 +1,6 @@
 # Uniswap example
  - https://gist.github.com/ysinha1/a69559b14ca06ec9f66ec409a27256fe
- - 
+
 # HardHat using TypeScript example:
  - https://github.com/wighawag/hardhat-deploy-ts-test
 
@@ -36,6 +36,9 @@
 # Javascript tips:
  - https://kentcdodds.com/blog/javascript-to-know-for-react
  - https://staltz.com/your-ide-as-a-presentation-tool.html
+ 
+# Tools to help:
+`grep \"bytecode\" build/contracts/* | awk '{print $1 " " length($3)/2}'`
  
 # Smart Contracts Examples
 
