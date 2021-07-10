@@ -45,6 +45,10 @@
 # Tools to help:
 `grep \"bytecode\" build/contracts/* | awk '{print $1 " " length($3)/2}'`
  
+# Build NFT app - in Polygon
+
+https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
+
 # Smart Contracts Examples
 
 ---
