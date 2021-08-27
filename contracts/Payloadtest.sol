@@ -23,11 +23,22 @@ contract Payloadtest {
             require(success, "Ether transfer failed.");
         }      
     }
+    
+        
+    function makeATransfer(address bank ) public payable
+    {
+        if (msg.value > 0) {
+            (bool success,) = bank.call{value: msg.value}("");
+            require(success, "Ether transfer failed.");
+        }      
+    }
 }
 
 contract Bank {
  
   uint public totalDeposit;
+  
+  event Received(address, uint);
   
   function deposit() public payable
   {
@@ -37,5 +48,10 @@ contract Bank {
   function balance() external view returns(uint256)
   {
       return address(this).balance;
+  }
+  
+  receive() external payable {
+      totalDeposit += msg.value;
+      emit Received(msg.sender, msg.value);
   }
 }
