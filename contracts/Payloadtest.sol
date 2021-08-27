@@ -1,4 +1,5 @@
-pragma solidity ^0.5.13;
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.7;
 
 /**
  * Simple example of how to use the payload when using call.value
@@ -17,7 +18,8 @@ contract Payloadtest {
         payload = abi.encode(function4bytes);
         
         if (msg.value > 0) {
-            (bool success,) = bank.call.value(msg.value)(payload);
+            //(bool success,) = bank.call.value(msg.value)(payload); *** ATTENTION *** OLD VERSION. It is here just for history
+            (bool success,) = bank.call{value: msg.value}(payload);
             require(success, "Ether transfer failed.");
         }      
     }
@@ -30,5 +32,10 @@ contract Bank {
   function deposit() public payable
   {
       totalDeposit += msg.value;
+  }
+  
+  function balance() external view returns(uint256)
+  {
+      return address(this).balance;
   }
 }
