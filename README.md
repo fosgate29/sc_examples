@@ -44,6 +44,8 @@
  
 # Tools to help:
 `grep \"bytecode\" build/contracts/* | awk '{print $1 " " length($3)/2}'`
+
+sudo lsof -i -P -n | grep LISTEN  (list all ports in use)
  
 # Build NFT app - in Polygon
 
