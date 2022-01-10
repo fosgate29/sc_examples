@@ -36,6 +36,7 @@
 - verify if data is comming from storage. If it is, if it is called more than once it should be a local variable to avoid getting data from storage
 - add require at the beginning of the function
 - if event is in a onlyOwner function, it isn't necessary to add sender
+- NATSPEC examples: https://github.com/primitivefinance/rmm-core/blob/main/contracts/PrimitiveEngine.sol
  
 # Javascript tips:
  - https://kentcdodds.com/blog/javascript-to-know-for-react
