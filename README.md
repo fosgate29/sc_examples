@@ -53,6 +53,10 @@ sudo lsof -i -P -n | grep LISTEN  (list all ports in use)
 
 https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
 
+# NFT optimization
+
+https://medium.com/@WallStFam/the-ultimate-guide-to-nft-gas-optimization-7e9289e2d88f
+
 # Smart Contracts Examples
 
 ---
