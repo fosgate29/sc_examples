@@ -3,6 +3,9 @@
 
 # HardHat using TypeScript example:
  - https://github.com/wighawag/hardhat-deploy-ts-test
+ 
+# Logs events
+ - https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e?utm_source=substack&utm_medium=email
 
 # DAI testnet
  - Kovan Medianizer: https://kovan.etherscan.io/address/0x9FfFE440258B79c5d6604001674A4722FfC0f7Bc 
