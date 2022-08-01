@@ -60,6 +60,10 @@ https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon
 
 https://medium.com/@WallStFam/the-ultimate-guide-to-nft-gas-optimization-7e9289e2d88f
 
+# DAO
+
+https://alisha.mirror.xyz/BIymDSUSm_Di9kS1MafI4ct7IWXPd1LVlgYM2C9A-qc?utm_source=substack&utm_medium=email
+
 # Smart Contracts Examples
 
 ---
