@@ -41,6 +41,7 @@
 - if event is in a onlyOwner function, it isn't necessary to add sender
 - NATSPEC examples: https://github.com/primitivefinance/rmm-core/blob/main/contracts/PrimitiveEngine.sol
 - https://m1guelpf.blog/d0gBiaUn48Odg8G2rhs3xLIjaL8MfrWReFkjg8TmDoM (optimization tips)
+- https://typefully.com/PaulRBerg/nkgrFkU?utm_source=substack&utm_medium=email (more optimization tips)
  
 # Javascript tips:
  - https://kentcdodds.com/blog/javascript-to-know-for-react
