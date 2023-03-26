@@ -28,6 +28,9 @@
 # Solidity Patterns:
  - https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb
  - Factory - https://soliditydeveloper.com/clonefactory
+ 
+# Gas Optimization
+ - https://medium.com/@ayomilk1/maximizing-efficiency-how-gas-optimization-can-streamline-your-smart-contracts-4bafcc6bf321
 
 # Clean code:
  - https://www.wslyvh.com/clean-contracts/
