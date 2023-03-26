@@ -7,10 +7,6 @@
 # Logs events
  - https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e?utm_source=substack&utm_medium=email
 
-# DAI testnet
- - Kovan Medianizer: https://kovan.etherscan.io/address/0x9FfFE440258B79c5d6604001674A4722FfC0f7Bc 
- - Kovan DAI: https://kovan.etherscan.io/address/0x08ae34860fbfe73e223596e65663683973c72dd3
-
 # Libraries
 
  - Calendar solidity api - https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary
