@@ -50,7 +50,9 @@
  - Security: https://www.npmjs.com/package/audit-ci  and https://www.npmjs.com/package/@lavamoat/allow-scripts
  
 # Tools to help:
-`grep \"bytecode\" build/contracts/* | awk '{print $1 " " length($3)/2}'`
+`grep \"bytecode\" build/contracts/* | awk '{print $1 " " length($3)/2}'`  (Truffle)
+
+`grep \"bytecode\" artifacts/contracts/*.sol/* | awk '{print $1 " " length($3)/2}'` (Hardhat)
 
 sudo lsof -i -P -n | grep LISTEN  (list all ports in use)
  
