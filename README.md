@@ -74,6 +74,8 @@ https://www.rainbowkit.com/docs/authentication
 
 # Smart Contracts Examples
 
+ERC1155 using bitmap, optmized: https://etherscan.io/address/0xdfaa1a2d917df08ea9eae22fec2dd729aa93f97b#code
+
 ---
 
 ## 1. How to use call.value
