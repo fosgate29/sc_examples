@@ -31,6 +31,7 @@
  
 # Gas Optimization
  - https://medium.com/@ayomilk1/maximizing-efficiency-how-gas-optimization-can-streamline-your-smart-contracts-4bafcc6bf321
+ - https://medium.com/@bloqarl/save-over-a-hundred-thousand-gas-with-this-solidity-gas-optimization-tip-ba791d6acafd
 
 # Clean code:
  - https://www.wslyvh.com/clean-contracts/
