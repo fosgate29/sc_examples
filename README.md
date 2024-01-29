@@ -7,6 +7,9 @@
 # Logs events
  - https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e?utm_source=substack&utm_medium=email
 
+# Apache Ethereum workflow
+ - https://www.youtube.com/watch?v=hXrULXAi9qM
+
 # Libraries
 
  - Calendar solidity api - https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary
