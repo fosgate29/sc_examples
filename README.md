@@ -81,6 +81,17 @@ https://www.rainbowkit.com/docs/authentication
 
 ERC1155 using bitmap, optmized: https://etherscan.io/address/0xdfaa1a2d917df08ea9eae22fec2dd729aa93f97b#code
 
+# Docker help
+```
+docker kill $(docker ps -q)
+docker rm $(docker ps -aq)
+docker network rm $(docker network ls -q)
+docker image rm $(docker image ls -q) -f
+docker volume rm $(docker volume ls -q)
+docker system prune
+docker system prune --volumes
+```
+
 ---
 
 ## 1. How to use call.value
